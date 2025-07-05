@@ -1,4 +1,4 @@
-````markdown
+
 # Interactive AI Storyteller 🗣️📖✨
 
 ## A Fun and Engaging AI-Powered Narrative Experience for Kids
@@ -7,7 +7,7 @@ This project is an interactive AI storyteller that allows users, especially chil
 
 Perfect for bedtime stories, creative play, or simply exploring the magic of AI, this app offers an immersive and personalized narrative journey.
 
----
+
 
 ## ✨ Features
 
