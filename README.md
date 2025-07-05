@@ -16,15 +16,6 @@ Perfect for bedtime stories, creative play, or simply exploring the magic of AI,
 - 🗣️ **Text-to-Speech Output**: Narrates stories aloud with **pyttsx3**.
 - 🔁 **Interactive Loop**: Continuously engages users with new stories and input prompts.
 
----
-
-## 📽️ Demonstration
-
-*(Optional: Add a demo GIF or screenshot here for better visualization.)*
-
-```bash
-![AI Storyteller Demo](https://www.example.com/your-demo.gif)
-````
 
 ---
 
