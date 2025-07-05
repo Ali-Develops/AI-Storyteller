@@ -1,7 +1,3 @@
-Here's a clean, markdown-formatted `README.md` file for your **Interactive AI Storyteller** project:
-
----
-
 ````markdown
 # Interactive AI Storyteller 🗣️📖✨
 
